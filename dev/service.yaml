@@ -4,7 +4,7 @@ metadata:
   name: wil-app-service
 spec:
   selector:
-    app: will-app
+    app: wil-app
   ports:
     - protocol: TCP
       port: 8888
